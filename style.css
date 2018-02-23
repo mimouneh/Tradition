@@ -1,0 +1,13 @@
+.cropcircle{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    background: #eee no-repeat center;
+    background-size: cover;
+}
+
+#image1{
+    background-image: url(11.jpg);
+
+}
+
